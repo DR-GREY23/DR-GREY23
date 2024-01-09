@@ -1,0 +1,30 @@
+
+ .nav{
+   height:50px;
+   background: red;
+ }
+ .nav div{
+   display: inline-block;
+   position: absolute;
+   left: 0;
+   padding: 15px;
+   font-size: 18px;
+   Color: aqua;
+ }
+ .nav ul{
+   position: absolute;
+   right: 5px;
+ }
+ .nav ul li{
+   display: inline-block;
+ }
+ .nav ul li a{
+   color: azure;
+   padding: 5px;
+ }
+
+
+  
+
+
+
